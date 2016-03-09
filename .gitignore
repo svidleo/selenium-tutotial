@@ -1,0 +1,7 @@
+.gradle
+classes
+build
+out
+.idea
+*.iml
+src/main/resources/screenshots/*
