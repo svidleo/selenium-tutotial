@@ -4,4 +4,4 @@ build
 out
 .idea
 *.iml
-src/main/resources/screenshots/*
+screenshots/*
